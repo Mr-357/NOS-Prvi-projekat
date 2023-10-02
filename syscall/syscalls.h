@@ -1,0 +1,1 @@
+asmlinkage long sys_nos(int pid, int nice);		

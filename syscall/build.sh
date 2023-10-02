@@ -1,0 +1,1 @@
+sudo make -j 6 && sudo make modules_install -j 6 && sudo make install -j 6

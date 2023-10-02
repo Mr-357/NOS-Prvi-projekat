@@ -1,0 +1,1 @@
+core-y			+= kernel/ certs/ mm/ fs/ ipc/ security/ crypto/ nos/ # include our custom syscall directory
